@@ -5,8 +5,5 @@ def using_while
     puts "Wingardium Leviosa"
     spell += 1
   end
-	
   #your code here
 end
-
-
